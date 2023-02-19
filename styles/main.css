@@ -14,16 +14,39 @@
   font-named-instance: 'Italic';
 }
 
+@font-face {
+  font-family: 'Wotfard';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: block;
+  src: url(/fonts/Wotfard-Regular.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Litila One';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: block;
+  src: url(/fonts/LilitaOne-Regular.ttf) format('truetype');
+}
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --cream: #ffedd9;
+  --espresso: #352923;
+  --cappuccino: #884615;
+  --mocha: #7d3703;
+}
+
 body {
-  font-family: 'Inter var', system-ui, -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
-    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Wotfard';
   -webkit-font-smoothing: subpixel-antialiased;
-  font-feature-settings: 'case' 1, 'cpsp' 1, 'dlig' 1, 'cv01' 1, 'cv02',
-    'cv03' 1, 'cv04' 1;
-  font-variation-settings: 'wght' 450;
-  font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+
+  margin: 0px;
+  padding: 0px;
+  background: var(--white);
+  color: var(--espresso);
 }
 b,
 strong,
@@ -31,13 +54,17 @@ h3,
 h4,
 h5,
 h6 {
+  color: var(--espresso);
+  font-family: 'Litila One';
   font-variation-settings: 'wght' 650;
 }
 h1 {
-  font-variation-settings: 'wght' 850;
+  color: var(--espresso);
+  font-family: 'Litila One';
 }
 h2 {
-  font-variation-settings: 'wght' 750;
+  color: var(--espresso);
+  font-family: 'Litila One';
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
@@ -57,9 +84,14 @@ img.next-image {
 }
 
 .prose a {
-  color: #0074de;
+  color: var(--mocha);
 }
 
 .nav-line .nav-link {
-  color: #69778c;
+  color: var(--cappuccino);
+  font-family: 'Wotfard';
+}
+
+.container {
+  margin: 65px 144px;
 }
