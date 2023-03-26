@@ -1,9 +1,9 @@
-import styled from 'styled-components';
-import { COLORS } from '../../../utils/constants';
+import styled from 'styled-components'
+import { COLORS } from '../../../utils/constants'
 
 export const FooterWrapper = styled.div`
   width: 100%;
-  height: 86px;
+  height: 84px;
   background-color: ${COLORS.cream};
   padding: 32px 0px;
   color: ${COLORS.espresso};
@@ -18,4 +18,4 @@ export const FooterWrapper = styled.div`
   p {
     margin: 0px;
   }
-`;
+`

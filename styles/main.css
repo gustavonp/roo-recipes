@@ -37,7 +37,11 @@
   --cappuccino: #884615;
   --mocha: #7d3703;
 
+  --first-breakpoint: 1000px;
+  --second-breakpoint: 700px;
   --margin-full: 144px;
+  --margin-half: 50px;
+  --margin-small: 16px;
 }
 
 body {
@@ -69,6 +73,12 @@ h2 {
   font-family: 'Litila One';
 }
 
+body #__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 @media screen and (min-device-pixel-ratio: 1.5),
   screen and (min-resolution: 1.5dppx) {
   body {
@@ -96,4 +106,17 @@ img.next-image {
 
 .container {
   margin: 65px var(--margin-full);
+  flex-grow: 1;
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    margin: 10px var(--margin-half);
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+    margin: 10px var(--margin-small);
+  }
 }

@@ -11,7 +11,7 @@ const Header = (props) => {
     <HeaderWrapper>
       <div className="top">
         <div className="left">
-          <Logo width="275px" />
+          <Logo />
           {/* <h1>{pageTitle}</h1> */}
         </div>
         <div className="right">

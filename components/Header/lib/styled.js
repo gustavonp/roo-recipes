@@ -25,6 +25,10 @@ export const HeaderWrapper = styled.div`
       flex-basis: 50%;
       padding: 30px;
       padding-left: var(--margin-full);
+
+      svg {
+        width: 275px;
+      }
     }
 
     .right {
@@ -36,6 +40,46 @@ export const HeaderWrapper = styled.div`
         position: absolute;
         right: var(--margin-full);
       }
+    }
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .top .left {
+      padding-left: var(--margin-half);
+    }
+
+    .top .right img {
+      right: var(--margin-half);
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .top .left {
+      padding-left: var(--margin-small);
+    }
+
+    .top .right img {
+      right: var(--margin-small);
+    }
+  }
+
+  @media only screen and (max-width: 650px) {
+    height: 200px;
+
+    .top {
+      height: 150px;
+    }
+
+    .top .left {
+      flex-basis: 100%;
+      padding: var(--margin-small);
+      svg {
+        width: 100%;
+      }
+    }
+
+    .top .right {
+      display: none;
     }
   }
 
