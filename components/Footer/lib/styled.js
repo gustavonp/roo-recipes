@@ -18,4 +18,4 @@ export const FooterWrapper = styled.div`
   p {
     margin: 0px;
   }
-`
+`;

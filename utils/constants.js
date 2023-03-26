@@ -6,4 +6,4 @@ export const COLORS = {
   espresso: '#352923',
   cappuccino: '#884615',
   mocha: '#7d3703',
-}
+};

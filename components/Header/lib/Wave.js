@@ -1,4 +1,4 @@
-import * as React from 'react'
+import * as React from 'react';
 
 const Wave = () => {
   return (
@@ -27,5 +27,6 @@ const Wave = () => {
       </g>
     </svg>
   )
-}
-export default Wave
+};
+
+export default Wave;

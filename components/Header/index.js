@@ -1,8 +1,8 @@
-import * as React from 'react'
-import { useRouter } from 'next/router'
-import { HeaderWrapper } from './lib/styled'
-import Logo from '../../utils/logo'
-import Wave from './lib/Wave'
+import * as React from 'react';
+import { useRouter } from 'next/router';
+import { HeaderWrapper } from './lib/styled';
+import Logo from '../../utils/logo';
+import Wave from './lib/Wave';
 
 const Header = (props) => {
   // const pageTitle = !!document ? document.title : '';
@@ -23,6 +23,6 @@ const Header = (props) => {
       </div>
     </HeaderWrapper>
   )
-}
+};
 
-export default Header
+export default Header;

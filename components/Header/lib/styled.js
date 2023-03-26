@@ -118,4 +118,4 @@ export const HeaderWrapper = styled.div`
 
     /*prevent many large-by-comparison ripples by shrinking the height*/
   }
-`
+`;

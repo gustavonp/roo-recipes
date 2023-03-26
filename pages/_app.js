@@ -1,8 +1,8 @@
-import Head from 'next/head'
-import Footer from '../components/Footer'
-import Header from '../components/Header'
+import Head from 'next/head';
+import Footer from '../components/Footer';
+import Header from '../components/Header';
 
-import '../styles/main.css'
+import '../styles/main.css';
 
 export default function Nextra({ Component, pageProps }) {
   return (
@@ -20,4 +20,4 @@ export default function Nextra({ Component, pageProps }) {
       <Footer />
     </>
   )
-}
+};
