@@ -36,6 +36,8 @@
   --espresso: #352923;
   --cappuccino: #884615;
   --mocha: #7d3703;
+
+  --margin-full: 144px;
 }
 
 body {
@@ -93,5 +95,5 @@ img.next-image {
 }
 
 .container {
-  margin: 65px 144px;
+  margin: 65px var(--margin-full);
 }
