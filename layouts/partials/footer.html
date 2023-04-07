@@ -6,7 +6,7 @@
         <!-- SNS Link -->
         {{ partial "sns-links.html" (dict "center" true "social" .Site.Params.social ) }}
         <div class="my-flexbox center column">
-          <img class="text-center" src=" {{ $.Site.Params.logo_img }}" alt="logo" width="130px">
+          <img class="text-center" src="{{ absURL $.Site.Params.logo_img }}" alt="logo" width="130px">
           <p><b>BON APPÉTIT</b></p>
           <p class="copyright">
             {{- if site.Copyright }}

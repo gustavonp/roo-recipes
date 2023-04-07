@@ -6,6 +6,7 @@
   --espresso: #352923;
   --cappuccino: #884615;
   --mocha: #7d3703;
+  --grey: #4b4b4b;
   --orange: #f16c07;
 
   --normal-font: 'Wotfard';
@@ -57,11 +58,19 @@ $custom-font-path: '/fonts/Wotfard-Regular.otf';
   header .nav-wrapper {
     margin-top: 0px !important;
   }
+
+  .logo-nav-wrapper {
+    flex-direction: column!important;
+  }
 }
 
 @media (min-width: 768px) {
   .container {
     width: 750px;
+  }
+
+  .roo {
+    width: 355px;
   }
 }
 
@@ -69,11 +78,19 @@ $custom-font-path: '/fonts/Wotfard-Regular.otf';
   .container {
     width: 970px;
   }
+
+  .roo {
+    width: 355px;
+  }
 }
 
 @media (min-width: 1200px) {
   .container {
     width: 1171px;
+  }
+
+  .roo {
+    width: 355px;
   }
 }
 
@@ -81,9 +98,12 @@ body {
   font-family: var(--normal-font);
   -webkit-font-smoothing: subpixel-antialiased;
   color: var(--black);
+  display: flex;
+  flex-direction: column;
 
   .container {
     min-height: calc(100% - (header height + footer height));
+    flex-grow: 1;
   }
 
   .my-flexbox {
@@ -116,13 +136,10 @@ header {
     width: 279px;
   }
 
-  .logo-wrapper {
-    padding: 0px 20px;
-  }
-
   .nav-wrapper {
     margin-top: 56px;
     position: relative;
+    margin-left: -10px;
   }
 
   a img {
@@ -150,6 +167,24 @@ header {
       padding: 0px;
     }
   }
+
+  .meta {
+    font-size: 13px;
+    font-style: italic;
+  }
+
+  .tags {
+    margin: 20px 0px 10px;
+  }
+
+  .title-wrapper {
+    // h1 {
+    //   margin-bottom: 0px;
+    // }
+    // h2 {
+    //   margin-top: 0px;
+    // }
+  }
 }
 
 h1,
@@ -162,6 +197,20 @@ h6 {
   color: var(--espresso);
 }
 
+.post-content-preview {
+  font-family: var(--normal-font);
+  font-size: 14px;
+  font-style: normal;
+  color: var(--black) !important;
+}
+
+.post-preview .post-meta {
+  font-size: 13px;
+}
+
+.pager li>a, .pager li>span {
+  border: none;
+}
 
 .post-container {
   a {
@@ -170,6 +219,7 @@ h6 {
 }
 
 footer {
+  margin-top: 10px;
   background-color: var(--cream);
   color: var(--espresso);
   font-family: var(--titles-font);

@@ -1,7 +1,9 @@
 ---
 title: "My First Post"
+subtitle: "Some neat subtitle"
 date: 2023-04-01T19:42:51-04:00
 draft: true
+tags: ["desserts", "guide"]
 ---
 
 ading

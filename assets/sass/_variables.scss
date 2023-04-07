@@ -1,9 +1,10 @@
 // Variables
 
 $brand-primary: var(--orange);
-$brand-gray: #a3a3a3;
+$brand-gray: var(--espresso);
 
-$gray-dark: #404040;
-$gray-light: #bfbfbf;
+$gray-dark: var(--espresso);
+$gray-light: var(--mocha);
+$gray: var(--grey);
 
 $white-faded: rgba(255, 255, 255, 0.8);
