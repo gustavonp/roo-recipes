@@ -1,0 +1,50 @@
+{{ $header_img := .Scratch.Get "cheff_roo" }}
+
+<style type="text/css">
+  .ocean {
+    height: 0px;
+    width: 100%;
+    background: var(--cream);
+    position: relative;
+  }
+
+  .wave {
+    background-image: url('{{ "img/wave.svg" | relURL }}');
+    background-size: 500px 70px;
+    position: absolute;
+    width: 6400px;
+    height: 41px;
+    animation: wave 200s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite, swell 8s ease -1.25s infinite;
+    top: -30px;
+  }
+
+  @keyframes wave {
+    0% {
+      margin-left: 0;
+    }
+
+    100% {
+      margin-left: -1600px;
+    }
+  }
+
+  @keyframes swell {
+
+    0%,
+    100% {
+      transform: translate3d(0, -10px, 0);
+    }
+
+    50% {
+      transform: translate3d(0, -10px, 0);
+    }
+  }
+
+  .endWave {
+    display: none;
+  }
+</style>
+
+<div class="ocean">
+  <div class="wave"></div>
+</div>
