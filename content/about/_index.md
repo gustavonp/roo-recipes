@@ -1,25 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "What is this site about anyways?"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Aniki Rooo"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### Hello!
 
-Hugo makes use of a variety of open source projects including:
+Welcome to Aniki’s kitchen. I’m so excited to share some of my favourite recipes with you!
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+When I started cooking as a hobby, I realized that food is more than just sustenance - it’s an experience that brings people together. That’s why I’m sharing my favourite dishes with you! Whether you’re looking for a traditional family recipe or modern twists on classic dishes.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Here you’ll find some of my favourite picks, personal recipes, and my mother’s classic dishes that I believe you’ll love as much as I did!
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+My recipes are designed to be easy to follow and accessible to all skill levels. Plus, I’ll be continuously adding any recipes I find worth sharing.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+So, sharpen your knives and get the fire started, we’re cooking today!
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Happy cooking! 👨‍🍳🦘
+
