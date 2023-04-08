@@ -1,0 +1,11 @@
+<script>
+  function removeHashLinksAndAddTooltipClass() {
+    const hashLinks = document.querySelectorAll('a[href="/##"]');
+    hashLinks.forEach(link => {
+      link.removeAttribute('href');
+      link.id = 'tooltip';
+    });
+  }
+
+  removeHashLinksAndAddTooltipClass()
+</script>

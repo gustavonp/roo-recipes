@@ -22,7 +22,7 @@ tags: ["Sides"]
 
 1. Wash the rice under running water until the water runs clear.
 
-2. Heat the olive oil on medium heat in a pot, when the oil is just hot saute the diced onion until soft and translucent.
+2. Heat the olive oil on medium heat in a pot, when the oil is [just hot](## "Not smoking!") saute the diced onion until soft and translucent.
 
 3. Then add the garlic and cook for a 1 minute.
 
@@ -32,9 +32,9 @@ tags: ["Sides"]
 
 5. Add the bay leaves if using.
 
-6. Once the water is boiling, lower the heat down to the lowest setting possible, cover with the lid and set your timer to "10 minutes".
+6. Once the water is boiling, lower the heat down to the lowest setting possible, cover with the lid and set your timer to 10 minutes.
 
-7. With a fork, dig a small hole and check if the water was fully absorbed by the rice.
+7. With a fork, dig a small hole and check if the water was [fully absorbed](## "Don't let it dry completely, otherwise you'll burn the rice.") by the rice.
 
 8. Remove the pot from heat and let it rest for 10 minutes with the lid on.
 

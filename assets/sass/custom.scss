@@ -98,6 +98,12 @@ $custom-font-path: '/fonts/Wotfard-Regular.otf';
   }
 }
 
+#tooltip {
+  cursor: help;
+  text-decoration: underline;
+  color: var(--orange);
+}
+
 body {
   font-family: var(--normal-font);
   -webkit-font-smoothing: subpixel-antialiased;
