@@ -8,12 +8,18 @@
       <!-- Post Container -->
       <div class="
               col-lg-10 col-lg-offset-0
-              col-md-10 col-md-offset-1
+              col-md-10 col-md-offset-0
               post-container">
         {{ .Content }}
 
         <hr style="visibility: hidden;" />
         <ul class="pager">
+          <li class="previous">
+            <a href="{{ .Site.BaseURL | safeURL }}" onclick="window.history.go(-1); return false;">&larr; Go back</a>
+          </li>
+        </ul>
+
+        <!-- <ul class="pager">
           {{ with .Prev }}
           <li class="previous">
             <a href="{{ .RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .Title }}">
@@ -30,7 +36,7 @@
             </a>
           </li>
           {{ end }}
-        </ul>
+        </ul> -->
         <hr style="visibility: hidden;" />
 
       </div>

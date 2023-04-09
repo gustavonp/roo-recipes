@@ -66,6 +66,14 @@ $custom-font-path: '/fonts/Wotfard-Regular.otf';
   .nav-logo {
     flex-direction: column-reverse !important;
   }
+
+  .my-flexbox.row-collapse {
+    flex-direction: column !important;
+  }
+
+  .post-container {
+    margin-top: 15px;
+  }  
 }
 
 @media (min-width: 768px) {
@@ -129,6 +137,10 @@ body {
       align-items: center;
     }
 
+    &.row-collapse {
+      flex-direction: row;
+    }
+
     &.column {
       flex-direction: column;
     }
@@ -139,6 +151,10 @@ body {
 
     &.row-reverse {
       flex-direction: row-reverse;
+    }
+
+    &.basic-gap {
+      gap: 6px
     }
   }
 
@@ -200,14 +216,6 @@ header {
     margin: 20px 0px 10px;
   }
 
-  .title-wrapper {
-    // h1 {
-    //   margin-bottom: 0px;
-    // }
-    // h2 {
-    //   margin-top: 0px;
-    // }
-  }
 }
 
 h1,
@@ -227,8 +235,23 @@ h6 {
   color: var(--black) !important;
 }
 
-.post-preview .post-meta {
-  font-size: 13px;
+.post-preview {
+  .post-meta {
+    font-size: 13px;
+  }
+
+  .post-cover {
+    height: 196px;
+    width: 196px;
+    margin: 5px;
+    border-radius: 3px;
+  }
+}
+
+img.cover-img {
+  width: 196px;
+  height: 196px;
+  border-radius: 10px;
 }
 
 .pager li>a, .pager li>span {
@@ -238,6 +261,13 @@ h6 {
 .post-container {
   a {
     color: var(--cappuccino);
+  }
+
+  img {
+    display: block;
+    max-width: unset;
+    height: auto;
+    margin: 0px;
   }
 }
 

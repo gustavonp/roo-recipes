@@ -52,7 +52,7 @@ url = "/about/"
 weight = 50
 
 [params]
-author = "Aniki Roo"
+author = "Chef Roo"
 description = ""
 keywords = "blog,developer,personal"
 img_home = ""

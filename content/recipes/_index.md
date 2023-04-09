@@ -1,4 +1,4 @@
 +++
-title = "Posts"
-author = "Hugo Authors"
+title = "Recipes"
+author = "Chef Roo"
 +++
