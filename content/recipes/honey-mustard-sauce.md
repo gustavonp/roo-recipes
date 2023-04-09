@@ -1,5 +1,5 @@
 ---
-title: "Honey Mustard Sauce"
+title: "Honey mustard sauce"
 date: 2023-04-03T21:22:57
 subtitle: ""
 draft: false
@@ -29,4 +29,3 @@ cover: /img/recipes/honey-mustard.jpg
 ### Directions
 
 1. Whisk all ingredients in a bowl until throughly blended. 
-

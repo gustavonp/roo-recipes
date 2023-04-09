@@ -1,26 +1,42 @@
 ---
-title: "Turmeric Rice"
+title: "Turmeric rice"
 date: 2023-04-07T23:11:00
 subtitle: ""
 draft: false
 tags: ["Sides"]
+cover: /img/recipes/tumeric-rice.jpg
 ---
 
-> A delightful, colourful alternative for a classic side dish.
+<div class="my-flexbox row-collapse center basic-gap" >
+  <div>
+    <img src="/img/recipes/tumeric-rice.jpg" alt="Turmeric rice" class="cover-img">
+  </div>
+  <div>
+    <blockquote>
+      A delightful, colourful alternative for a classic side dish.
+    </blockquote>
+  </div>
+</div>
 
 ### Ingredients
 
 - 1 tablespoon olive oil
-- 1 onion diced
+- 1 onion
 - 3 cloves garlic crushed
 - 1½ cups long-grain rice
 - 1½ teaspoon ground turmeric
 - 1 teaspoon salt
 - 2 small bay leaves (optional)
 
-### Directions
+### _Mise en place_
 
 1. Wash the rice under running water until the water runs clear.
+
+2. thinly dice the onions.
+
+3. Peel and gently [crush](## "Crushing the cloves makes it easier to peel and makes the garlic release its oils.") the garlic cloves.
+
+### Directions
 
 2. Heat the olive oil on medium heat in a pot, when the oil is [just hot](## "Not smoking!") saute the diced onion until soft and translucent.
 
