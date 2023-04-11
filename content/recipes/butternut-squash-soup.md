@@ -29,7 +29,7 @@ cover: /img/recipes/butternut-squash-soup.jpg
 - 6 cups hot chicken stock 
 - 1 teaspoon fresh thyme 
 - 1 teaspoon fresh sage 
-- 1/2 cup heavy cream 
+- ½ cup heavy cream 
 - Salt & Pepper
 
 **Topping**
@@ -48,7 +48,7 @@ cover: /img/recipes/butternut-squash-soup.jpg
 
 ### Directions
 
-1. In a large por, heat the olive oil over medium-high heat.
+1. In a large pot, heat the olive oil over medium-high heat.
 2. Add the onion and cook until the onion starts to get translucent (about 5 minutes).
 3. Add the squash and cook until beginning to brown around the edges. Stirring occasionally (8 to 10 minutes).
 4. Add the garlic and cook for another minute.

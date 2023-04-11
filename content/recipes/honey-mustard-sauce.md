@@ -21,8 +21,8 @@ cover: /img/recipes/honey-mustard.jpg
 
 ### Ingredients
 
-- 1/2 cup Dijon mustard
-- 1/2 cup honey
+- ½ cup Dijon mustard
+- ½ cup honey
 - 4 teaspoons soy sauce
 - 2 teaspoons sugar
 
