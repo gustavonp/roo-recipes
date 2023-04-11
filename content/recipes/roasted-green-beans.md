@@ -3,8 +3,9 @@ title: "Roasted green beans"
 date: 2023-04-09T17:18:00
 subtitle: ""
 draft: false
-tags: ["Sides"]
+tags: ["Sides", "Vegetarian"]
 cover: /img/recipes/roasted-green-beans.jpg
+description: "Crunchy roasted green beans are a fantastic side for meats in general. It takes little to no effort, ideal for busy weekdays."
 ---
 
 <!-- <div class="warning">⚠️ This is a warning!</div> -->

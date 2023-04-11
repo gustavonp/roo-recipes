@@ -3,8 +3,9 @@ title: "Paprika Schnitzel"
 date: 2023-04-09T23:09:00
 subtitle: ""
 draft: false
-tags: ["Entrées"]
+tags: ["Entrées", "Meats"]
 cover: /img/recipes/paprika-schnitzel.jpg
+description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful German recipe. You can find variants of this recipe, but this one is my personal favourite."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >

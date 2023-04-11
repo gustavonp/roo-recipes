@@ -5,6 +5,7 @@ subtitle: ""
 draft: false
 tags: ["Sauces & Dressings"]
 cover: /img/recipes/honey-mustard.jpg
+description: "Ideal for a quick salad dressing or a nice drizzle of a tangy sauce on your meals."
 ---
 
 

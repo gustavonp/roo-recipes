@@ -266,6 +266,15 @@ img.cover-img {
   border-radius: 10px;
 }
 
+.mini-post-list .post-preview {
+  margin-left: 0px;
+}
+
+img.cover-tags, .post-preview .cover-tags {
+  width: 100px;
+  height: 100px;
+}
+
 .pager li>a, .pager li>span {
   border: 1px solid white;
 }

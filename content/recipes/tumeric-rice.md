@@ -3,8 +3,9 @@ title: "Turmeric rice"
 date: 2023-04-07T23:11:00
 subtitle: ""
 draft: false
-tags: ["Sides"]
+tags: ["Sides", "Vegetarian"]
 cover: /img/recipes/tumeric-rice.jpg
+description: "A delightful, colourful alternative for a classic side dish."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
@@ -38,7 +39,7 @@ cover: /img/recipes/tumeric-rice.jpg
 
 ### Directions
 
-2. Heat the olive oil on medium heat in a pot, when the oil is [just hot](## "Not smoking!") saute the diced onion until soft and translucent.
+2. Heat the olive oil on medium heat in a pot, when the oil is [just hot](## "Not smoking!") sauté the diced onion until soft and translucent.
 
 3. Then add the garlic and cook for a 1 minute.
 

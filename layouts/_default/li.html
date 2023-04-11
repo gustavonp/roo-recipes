@@ -1,0 +1,22 @@
+<div class="post-preview item abc" data-tags="{{ with .Params.tags }} {{- delimit  (apply (apply . "lower" ".") "urlquery" ".") "," -}} {{ end }}">
+  <a href="{{ .RelPermalink }}">
+
+    <div class="my-flexbox row-collapse" style="gap: 5px">
+      {{ if isset .Params "cover" }}
+        <div class="post-cover cover-tags">
+          <img class="cover-img cover-tags" src=" {{ absURL  $.Params.cover }}" alt="{{ .Title }}" />
+      </div>
+      {{ end }}
+      <div class="post-content">
+          <div class="post-content-preview">
+            <h2 class="post-title">{{ .Title }}</h2>
+            {{ if isset .Params "description" }} {{ index .Params "description" }}
+            {{ else }}
+            {{ .Summary | plainify | truncate 180 }}
+            {{ end }}
+          </div>
+      </div>
+    </div>
+  </a>
+<hr>
+</div>

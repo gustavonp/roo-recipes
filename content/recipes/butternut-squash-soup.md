@@ -3,8 +3,9 @@ title: "Butternut squash soup"
 date: 2023-04-09T18:13:00
 subtitle: ""
 draft: false
-tags: ["Soups"]
+tags: ["Soups", "Vegetarian"]
 cover: /img/recipes/butternut-squash-soup.jpg
+description: "Although I'm not a huge fan of soups, this exotic, creamy flavour is a must-have during winter days."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >

@@ -5,6 +5,7 @@ subtitle: ""
 draft: false
 tags: ["Sides"]
 cover: /img/recipes/bok-choy.jpg
+description: "Bok choy is a variety of Chinese white cabbage. Full of good nutrients, and the stall adds a nice texture to your plate."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
