@@ -3,7 +3,7 @@ title: "Tuna or black olive paté"
 date: 2023-04-12T14:10:00
 subtitle: ""
 draft: false
-tags: ["Snacks & Appetizers", "Vegetarian"]
+tags: ["Snacks & Appetizers"]
 cover: /img/recipes/tuna-or-black-olive-pate.jpg
 description: "With crackers or on a toast, a good paté can be the best snack at any hour of the day."
 ---
