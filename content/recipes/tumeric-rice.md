@@ -39,9 +39,9 @@ description: "A delightful, colourful alternative for a classic side dish."
 
 ### Directions
 
-2. Heat the olive oil on medium heat in a pot, when the oil is [just hot](## "Not smoking!") sauté the diced onion until soft and translucent.
+2. Heat the olive oil on medium heat in a pot. When the oil is [just hot](## "Not smoking!"), sauté the diced onion until soft and translucent.
 
-3. Then add the garlic and cook for a 1 minute.
+3. Then add the garlic and cook for 1 minute.
 
 3. Add the rice, salt, and turmeric mix.
 
@@ -49,9 +49,9 @@ description: "A delightful, colourful alternative for a classic side dish."
 
 5. Add the bay leaves if using.
 
-6. Once the water is boiling, lower the heat down to the lowest setting possible, cover with the lid and set your timer to 10 minutes.
+6. Once the water is boiling, lower the heat to the lowest setting possible, cover it with the lid and set your timer to 10 minutes.
 
-7. With a fork, dig a small hole and check if the water was [fully absorbed](## "Don't let it dry completely, otherwise you'll burn the rice.") by the rice.
+7. With a fork, dig a small hole and check if the water was [fully absorbed](## "Don't let it dry completely. Otherwise, you'll burn the rice.") by the rice.
 
 8. Remove the pot from heat and let it rest for 10 minutes with the lid on.
 

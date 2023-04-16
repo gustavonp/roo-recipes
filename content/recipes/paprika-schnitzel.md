@@ -5,7 +5,7 @@ subtitle: ""
 draft: false
 tags: ["Entrées", "Meats"]
 cover: /img/recipes/paprika-schnitzel.jpg
-description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful German recipe. You can find variants of this recipe, but this one is my personal favourite."
+description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful German recipe. You can find variants of this recipe, but this one is a personal favourite."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
@@ -14,7 +14,7 @@ description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful 
   </div>
   <div>
     <blockquote>
-      Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful German recipe. You can find variants of this recipe, but this one is my personal favourite.
+      Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful German recipe. You can find variants of this recipe, but this one is a personal favourite.
     </blockquote>
   </div>
 </div>
@@ -44,7 +44,7 @@ description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful 
 
 3. In a large skillet, sauté the onion with 1 tbsp of butter over medium heat until it becomes translucent.
 
-4. Melt the rest of the butter over medium-high heat and quickly fry the steaks, seasoning it with salt and pepper
+4. Melt the rest of the butter over medium-high heat and quickly fry the steaks, seasoning with salt and pepper
 
 5. Reduce the heat and let it cook for 5 minutes.
 

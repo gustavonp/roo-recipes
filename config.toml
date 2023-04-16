@@ -4,7 +4,7 @@ title = "Roo Recipes"
 theme = "puppet"
 
 copyright = ""
-paginate = 3
+paginate = 5
 languageCode = "en"
 defaultContentLanguage = "en"
 

@@ -35,7 +35,7 @@ description: "Crunchy roasted green beans are a fantastic side for meats in gene
 
 2. Cut the lemon in half.
 
-3. [Zest the lemon](## "grate the outer layer of the shell with a grater"), cut it in half. Squeeze one half of the lemon, slice the other half and set aside.
+3. [Zest the lemon](## "grate the outer layer of the shell with a grater") and cut it in half. Squeeze one half of the lemon, slice the other half and set aside.
 
 3. mince the garlic.
 

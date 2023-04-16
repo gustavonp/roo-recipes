@@ -11,7 +11,7 @@ description: "Ideal for a quick salad dressing or a nice drizzle of a tangy sauc
 
 <div class="my-flexbox row-collapse center basic-gap" >
   <div>
-    <img src="/img/recipes/honey-mustard.jpg" alt="Honey Mustard" class="cover-img">
+    <img src="/img/recipes/honey-mustard.jpg" alt="Honey Mustard sauce" class="cover-img">
   </div>
   <div>
     <blockquote>
@@ -29,4 +29,4 @@ description: "Ideal for a quick salad dressing or a nice drizzle of a tangy sauc
 
 ### Directions
 
-1. Whisk all ingredients in a bowl until throughly blended. 
+1. Whisk all ingredients in a bowl until thoroughly blended.

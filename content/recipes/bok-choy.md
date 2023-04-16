@@ -14,7 +14,7 @@ description: "Bok choy is a variety of Chinese white cabbage. Full of good nutri
   </div>
   <div>
     <blockquote>
-      Bok choy is a variety of Chinese white cabbage. Full of good nutrients, and the stall adds a nice texture to your plate.
+      Bok choy is a variety of Chinese white cabbage. Full of good nutrients, the stall adds a nice texture to your plate.
     </blockquote>
   </div>
 </div>
@@ -36,11 +36,11 @@ description: "Bok choy is a variety of Chinese white cabbage. Full of good nutri
 
 ### Directions
 
-1. In a large, deep skillet, bring broth, butter and garlic to a simmer.
+1. Bring broth, butter and garlic to a simmer in a large, deep skillet.
 
 2. Add the bok choy, covers the skillet with a lid and let it simmer until tender. (about 5 minutes).
 
-3. Transfer the bok choy to a serving dish and cover to keep warm.
+3. Transfer the bok choy to a serving dish and cover it to keep it warm.
 
 4. Boil the broth until reduced to ¼ cup.
 
@@ -48,4 +48,4 @@ description: "Bok choy is a variety of Chinese white cabbage. Full of good nutri
 
 6. Pour the mixture over the bok choy.
 
-> It is easy to make it too spicy with red pepper flakes. So try adding it a little less if you're not a fan of spicy food.
+> It is easy to make it too spicy with red pepper flakes. Try adding it a little less if you're not a fan of spicy food.

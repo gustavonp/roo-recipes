@@ -5,7 +5,7 @@ subtitle: ""
 draft: false
 tags: ["Breakfasts"]
 cover: /img/recipes/pancakes.jpg
-description: "Classic and easy to prepare."
+description: "Of all the variations I've tried. This is the best and easiest pancake recipe."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
@@ -14,7 +14,7 @@ description: "Classic and easy to prepare."
   </div>
   <div>
     <blockquote>
-      Classic and easy to prepare.
+      Of all the variations I've tried. This is the best and easiest pancake recipe.
     </blockquote>
   </div>
 </div>
@@ -32,7 +32,7 @@ description: "Classic and easy to prepare."
 
 ### Directions
 
-1. In a large bowl, sift together the flour, baking powder, salt, and sugar. 
+1. In a large bowl, sift together the flour, baking powder, salt, and sugar.
 
 2. Make a well in the center and pour in the milk, egg, and melted butter; mix until smooth.
 

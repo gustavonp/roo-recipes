@@ -34,11 +34,11 @@ description: "Making your hummus gives you a hint of sophistication at your tabl
 
 ### Directions
 
-1. Drain and rinse the chickpeas into a large pot, cover with 3 centimeters of water and bring it to a boil.
+1. Drain and rinse the chickpeas into a large pot, cover with 3 centimetres of water and bring it to a boil.
 
 2. Reduce the heat and simmer until they reach your desired tenderness (around 1 to 1/2 hours).
 
-2. Drain the chickpeas one more time after cooked and bring them to a food processor with lemon juice, olive oil, cumin, minced garlic, tahini, salt and 1tbsp of water.
+2. Drain the chickpeas one more time after cooked and bring them to a food processor with lemon juice, olive oil, cumin, minced garlic, tahini, salt and 1 tbsp of water.
 
 3. After a few minutes of processing, the chickpeas become a thick, whipped paste. Add more water if you wish to make it smoother.
 

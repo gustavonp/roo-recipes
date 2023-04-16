@@ -21,14 +21,14 @@ description: "With crackers or on a toast, a good paté can be the best snack at
 
 ### Ingredients
 
-**For the tuna pate:**
+**For the tuna paté:**
 
 - 1 canned tuna
 - 2 tablespoon mayo
 - 1 pinch salt
 - ½ minced onion
 
-**For the black olive pate:**
+**For the black olive paté:**
 
 - 300g black olives
 - 500g mayo
@@ -38,6 +38,6 @@ description: "With crackers or on a toast, a good paté can be the best snack at
 
 ### Directions
 
-1. Bring all ingredients of your selected pate to a food processor.
+1. Bring all ingredients of your selected paté to a food processor.
 
 2. Process the paté for 2 minutes or until it reaches the desired consistency.

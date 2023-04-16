@@ -26,14 +26,14 @@ description: "This breakfast delight is definitely one of my favourite breakfast
 - 1 cup fresh baby spinach
 - ½ cup shredded mozzarella cheese
 - 2 slices of turkey ham (or 4 bacon strips)
-- 2 tbsp sweet chili
+- 2 tablespoon sweet chili
 
 ### Directions
 
-1.	Heat a skillet and cook ham until lightly browned.Pat it with a paper towel to remove the excess grease.
+1. Heat a skillet and cook ham until lightly browned. Pat it with a paper towel to remove the excess grease.
 
-2.	In the same skillet, crack the two eggs, using the ham great to season the egg.
+2. In the same skillet, crack the two eggs, using the ham grease for seasoning the egg.
 
-3.	Cut the panino open, set the fried egg, sprinkle it with the shredded mozzarella, ham, and baby spinach.
+3. Cut the panino bred open, set the fried egg, and sprinkle it with the shredded mozzarella, ham, and baby spinach.
 
-4.	Pour 1 tbsp of sweet chili sauce on top.
+4. Pour 1 tbsp of sweet chilli sauce on top.
