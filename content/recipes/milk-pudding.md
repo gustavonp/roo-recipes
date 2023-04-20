@@ -5,7 +5,7 @@ subtitle: ""
 draft: false
 tags: ["Desserts"]
 cover: /img/recipes/honey-pudding.jpg
-description: "TBD"
+description: "Smooth dessert, another comfort food with simple ingredients."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
@@ -14,7 +14,7 @@ description: "TBD"
   </div>
   <div>
     <blockquote>
-      TBD
+      Smooth dessert, another comfort food with simple ingredients.
     </blockquote>
   </div>
 </div>
