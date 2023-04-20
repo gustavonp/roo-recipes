@@ -1,16 +1,16 @@
 ---
-title: "Milk pudding"
+title: "Honey pudding"
 date: 2023-04-16T14:00:00
 subtitle: ""
 draft: false
 tags: ["Desserts"]
-cover: /img/recipes/milk-pudding.jpg
+cover: /img/recipes/honey-pudding.jpg
 description: "TBD"
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
   <div>
-    <img src="/img/recipes/milk-pudding.jpg" alt="Milk pudding" class="cover-img">
+    <img src="/img/recipes/honey-pudding.jpg" alt="Honey pudding" class="cover-img">
   </div>
   <div>
     <blockquote>
