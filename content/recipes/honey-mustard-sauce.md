@@ -22,7 +22,7 @@ description: "Ideal for a quick salad dressing or a nice drizzle of a tangy sauc
 
 ### Ingredients
 
-- ½ cup Dijon mustard
+- ½ cup dijon mustard
 - ½ cup honey
 - 4 teaspoons soy sauce
 - 2 teaspoons sugar

@@ -22,7 +22,7 @@ description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful 
 ### Ingredients
 
 - 1 cup All-purpose flour
-- 4 slices of Veal Sirloin cutlet
+- 4 slices veal sirloin cutlet
 - 2 tablespoon lemon
 - 3 tablespoon butter, unsalted
 - ½ cup onion

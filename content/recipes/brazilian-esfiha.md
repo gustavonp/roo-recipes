@@ -46,9 +46,9 @@ description: "The Esfiha is a savory pie inspired by the Middle Eastern Sfiha. I
 **Cheese topping**
 
 - 300g ricotta cheese
-- 3 tablespoons of heavy cream
-- 3 tablespoons of chives
-- ½ tablespoon of baking powder
+- 3 tablespoons heavy cream
+- 3 tablespoons chives
+- ½ tablespoon baking powder
 - Salt
 
 ### _Mise en place_

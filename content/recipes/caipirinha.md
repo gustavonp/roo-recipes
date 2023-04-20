@@ -22,8 +22,8 @@ description: "Making a good caipirinha is a matter of practice. But even the bad
 ### Ingredients
 
 - 1 lime
-- 2 tablespoons of sugar
-- 2 ounces of cachaça (60ml)
+- 2 tablespoons sugar
+- 2 ounces cachaça (60ml)
 - Ice
 
 ### _Mise en place_

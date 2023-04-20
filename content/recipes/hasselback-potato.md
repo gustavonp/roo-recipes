@@ -23,7 +23,7 @@ description: "Hasselback potato is a Swedish version of a baked potato. It can b
 
 - 2 Baking potatoes
 - Olive oil
-- 2 tablespoons of butter
+- 2 tablespoons butter
 - Parsley and thyme
 - Salt and pepper
 

@@ -25,7 +25,7 @@ description: "A creamy, delightful Brazilian dish with a rich flavour."
 - 250g sour cream
 - ½ minced onion
 - 3 tablespoon butter
-- 1 cup hearts of palm
+- 1 cup hearts palm
 - 1 tablespoon parsley thinly chopped
 - 4 cups chicken broth
 - 4 tablespoon parmesan cheese

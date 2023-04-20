@@ -21,11 +21,11 @@ description: "Butterbeer is a warm, creamy beverage originally from England. It'
 
 ### Ingredients
 
-- 100g of butter
-- 1 cup of demerara or brown sugar
+- 100g butter
+- 1 cup demerara or brown sugar
 - 6 cloves
-- ½ teaspoon of grated nutmeg
-- 2cm of ginger
+- ½ teaspoon grated nutmeg
+- 2cm ginger
 - 3 pints or 1.5l Ale beer
 - 5 egg yolks
 

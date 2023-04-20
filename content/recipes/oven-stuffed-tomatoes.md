@@ -27,6 +27,7 @@ description: "This is one of those silly, simple recipes to make when you want t
 - 200g ground beef
 - 1 cup parmesan cheese, grated
 - Olive oil
+- Salt and pepper
 
 ### _Mise en place_
 
@@ -44,7 +45,7 @@ description: "This is one of those silly, simple recipes to make when you want t
 
 2. Into a skillet, cook the onions and garlic with a drizzle olive oil over medium heat until the onion gets translucent.
 
-3. Add the ground beef and just partially cook cook for 10 to 15 minutes. Until most of the ground beef is nice and brown.
+3. Add the ground beef with a pinch of salt and pepper and just partially cook cook for 10 to 15 minutes. Until most of the ground beef is nice and brown.
 
 4. Put your tomatoes on a baking tray and carefully stuff them with the ground beef, addind the parmesan cheese on top.
 

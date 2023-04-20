@@ -29,7 +29,7 @@ description: "A creamy, delightful Brazilian dish with a rich flavour."
 - 3 white potatoes
 - 1 smoked italian sausage
 - 2 tablespoons olive oil
-- 1 small bunch of Parsley
+- 1 small bunch parsley
 - Salt
 
 ### _Mise en place_
