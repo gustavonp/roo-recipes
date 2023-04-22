@@ -3,7 +3,7 @@ title: "Sauteed salmon"
 date: 2023-04-19T10:00:00
 subtitle: ""
 draft: false
-tags: ["Entrées"]
+tags: ["Entrées", "Meats"]
 cover: /img/recipes/sauteed-salmon.jpg
 description: "Salt, pepper, and lemon. Salmon doesn't need anything else to make it good."
 ---

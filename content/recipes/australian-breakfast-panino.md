@@ -36,4 +36,4 @@ description: "This breakfast delight is definitely one of my favourite breakfast
 
 3. Cut the panino bred open, set the fried egg, and sprinkle it with the shredded mozzarella, ham, and baby spinach.
 
-4. Pour 1 tbsp of sweet chilli sauce on top.
+4. Pour 1 tablespoon of sweet chilli sauce on top.

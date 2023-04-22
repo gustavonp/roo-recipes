@@ -42,7 +42,7 @@ description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful 
 
 2. Pat the steaks dry and roll them into the flour.
 
-3. In a large skillet, sauté the onion with 1 tbsp of butter over medium heat until it becomes translucent.
+3. In a large skillet, sauté the onion with 1 tablespoon of butter over medium heat until it becomes translucent.
 
 4. Melt the rest of the butter over medium-high heat and quickly fry the steaks, seasoning with salt and pepper
 

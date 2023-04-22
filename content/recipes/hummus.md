@@ -23,10 +23,10 @@ description: "Making your hummus gives you a hint of sophistication at your tabl
 
 - 250gr chickpeas
 - 2 minced garlic cloves
-- 2 tbsp fresh lemon juice
-- 2 tbsp olive oil
-- ½ tbsp cumin
-- 1 tbsp tahini
+- 2 tablespoon fresh lemon juice
+- 2 tablespoon olive oil
+- ½ tablespoon cumin
+- 1 tablespoon tahini
 
 ### _Mise en place_
 
@@ -38,7 +38,7 @@ description: "Making your hummus gives you a hint of sophistication at your tabl
 
 2. Reduce the heat and simmer until they reach your desired tenderness (around 1 to 1/2 hours).
 
-2. Drain the chickpeas one more time after cooked and bring them to a food processor with lemon juice, olive oil, cumin, minced garlic, tahini, salt and 1 tbsp of water.
+2. Drain the chickpeas one more time after cooked and bring them to a food processor with lemon juice, olive oil, cumin, minced garlic, tahini, salt and 1 tablespoon of water.
 
 3. After a few minutes of processing, the chickpeas become a thick, whipped paste. Add more water if you wish to make it smoother.
 
