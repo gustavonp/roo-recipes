@@ -1,16 +1,16 @@
 ---
-title: "Tanuki's chilli"
+title: "Nuki's chilli"
 date: 2023-04-19T11:00:00
 subtitle: ""
 draft: false
 tags: ["Entrées"]
-cover: /img/recipes/tanukis-chilli.jpg
+cover: /img/recipes/nukis-chilli.jpg
 description: "A simple, hearty meal perfect for winter seasons. A delicious comfort food when you just want to stay at home."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
   <div>
-    <img src="/img/recipes/tanukis-chilli.jpg" alt="Tanuki's chilli" class="cover-img">
+    <img src="/img/recipes/nukis-chilli.jpg" alt="Nuki's chilli" class="cover-img">
   </div>
   <div>
     <blockquote>
