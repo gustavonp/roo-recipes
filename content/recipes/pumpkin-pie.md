@@ -5,7 +5,7 @@ subtitle: ""
 draft: false
 tags: ["Desserts"]
 cover: /img/recipes/pumpkin-pie.jpg
-description: "TBD"
+description: "This seasonal recipe is a must-have during autumn."
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >
@@ -14,7 +14,7 @@ description: "TBD"
   </div>
   <div>
     <blockquote>
-      TBD
+      This seasonal recipe is a must-have during autumn.
     </blockquote>
   </div>
 </div>
