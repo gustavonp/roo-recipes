@@ -18,7 +18,7 @@
   {{ end -}}
   <meta name="description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
   <meta name="keywords" content="{{ (delimit .Keywords " ,") | default .Site.Params.keywords }}">
-  {{ with .Site.Params.img_home }}
+  {{ with .Site.Params.cheff_roo }}
     <meta property="og:image" content="{{ absURL $.Site.Params.cheff_roo }}" />
     <meta name="twitter:image" content="{{ absURL $.Site.Params.cheff_roo }}" />
   {{ end }}
