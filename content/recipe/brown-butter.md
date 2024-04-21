@@ -21,7 +21,7 @@ description: "Brown butter, or beurre noisette, can be used for recipes, but it'
 
 ### Ingredients
 
-- 1 cups butter
+- 1 cup butter
 
 > If you want to use it as a spreadable I recommend salted. If you're using it for a recipe, use unsalted.
 
