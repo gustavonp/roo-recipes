@@ -3,7 +3,7 @@ title: "Garlic confit"
 date: 2024-04-19T16:22:00
 subtitle: ""
 draft: false
-tags: ["Sides", "Sauces & Dressings"]
+tags: ["Sides", "Sauces & Dressings", "Snacks & Appetizers", "Vegetarian"]
 cover: /img/recipes/garlic-confit.jpg
 description: "Garlic confit is a 2 in 1 recipe. You get a delightful spread and seasoned olive oil."
 ---
