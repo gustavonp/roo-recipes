@@ -49,4 +49,4 @@ description: "Crunchy roasted green beans are a fantastic side for meats in gene
 
 4. Bake for 20 to 25 minutes, or until browned in some places but still crisp.
 
-> Lemon zest adds a wonderful fragrance and a light, faintly sweet taste of lemon. Plus, it fills the house with a fantastic smell of good, homemade food.
+<blockquote class="with-roo">Lemon zest adds a wonderful fragrance and a light, faintly sweet taste of lemon. Plus, it fills the house with a fantastic smell of good, homemade food.</blockquote>

@@ -36,7 +36,7 @@ description: "Making a good caipirinha is a matter of practice. But even the bad
 
 1. Put the slices of lime into a glass and top it with sugar
 
-> Lime first, sugar second. The order is important.
+<blockquote class="with-roo">Lime first, sugar second. The order is important.</blockquote>
 
 2. Muddle the mixture of sugar and lime slides.
 
@@ -44,4 +44,4 @@ description: "Making a good caipirinha is a matter of practice. But even the bad
 
 4. Add the 2 ounces of cachaça
 
-> The center of the lime gives your drink a bitter taste. So it's important to cut it over before you muddle it.
+<div class="warning">The center of the lime gives your drink a bitter taste. So it's important to cut it over before you muddle it.</div>

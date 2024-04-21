@@ -40,7 +40,7 @@ description: "This seasonal recipe is a must-have during autumn."
 - 1 egg
 - salt
 
-> You can use canned pumpkin and skip this step if you want to.
+<blockquote class="with-roo">You can use canned pumpkin and skip this step if you want to.</blockquote>
 
 ### _Mise en place_
 

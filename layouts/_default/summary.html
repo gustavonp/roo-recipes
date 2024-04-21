@@ -1,10 +1,9 @@
-<div class="post-preview">
-  <a href="{{ .RelPermalink }}">
+<a href="{{ .RelPermalink }}">
+  <div class="post-preview">
     <h2 class="post-title">{{ .Title }}</h2>
     {{ with .Params.subtitle }}
       <h3 class="post-subtitle">{{ . }}</h3>
     {{ end }}
-  </a>
   <div class="my-flexbox row-collapse" style="gap: 5px">
     {{ if isset .Params "cover" }}
       <div class="post-cover">
@@ -28,5 +27,6 @@
     </div>
   </div>
   
-</div>
+  </div>
+</a>
 <hr>

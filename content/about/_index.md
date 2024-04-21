@@ -6,7 +6,13 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Aniki Rooo"
 +++
 
-### Hello!
+<div class="my-flexbox row-collapse center basic-gap" >
+  <img src="/img/recipes/stickers/bowing.png" width="45%" />
+  <div>
+    <h3>Hello!</h3>
+  </div>
+</div>
+
 
 Welcome to Aniki’s kitchen. I’m so excited to share some of my favourite recipes with you!
 

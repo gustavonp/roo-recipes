@@ -47,7 +47,7 @@ description: "Chocolate cake: it's food perfection."
 3. Whip the egg whites in a separate bowl.
 4. Add the baking soda and the whipped whites to the mixture, folding the mixture one last time.
 
-> Try not to beat too much, you don't want to lose the air bubbles from your whippep egg whites.
+<blockquote class="with-roo">Try not to beat too much, you don't want to lose the air bubbles from your whippep egg whites.</blockquote>
 
 5. Let it rest for 5 minutes.
 

@@ -48,4 +48,4 @@ description: "A creamy, delightful Brazilian dish with a rich flavour."
 
 3. Once the lentils are soft, add the potatoes and parsley and cook for 15 minutes or until the potatoes are nice and soft.
 
-> If you're using canned lentils, you might need to use less water and cook for less time.
+<blockquote class="with-roo">If you're using canned lentils, you might need to use less water and cook for less time.</blockquote>

@@ -44,7 +44,7 @@ description: "A perfect breakfast needs toast, crispy bacon, and a well-seasoned
 
 6. Season boiling water with salt and add white wine vinegar. Stir the water with a whisk until swirling. Crack eggs into individual small bowls. Lower each bowl and gently drop eggs into the water.
 
-> White vinegar helps the egg white stiffen around the egg when you poach it.
+<blockquote class="with-roo">White vinegar helps the egg white stiffen around the egg when you poach it.</blockquote>
 
 7. Turn the heat down to simmer. After 2 minutes, check the eggs. If they are firm to touch, remove them from the water; if they wobble, put them back into the water for another 10 seconds.
 

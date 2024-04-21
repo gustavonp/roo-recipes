@@ -45,7 +45,7 @@ description: "Although I'm not a huge fan of soups, this exotic, creamy flavour 
 3. Mince the garlic.
 4. Thinly chop the type and sage.
 
-<div class="warning">Wear gloves before peeling and chopping the butternut squash. The oil coming off of the squash can irritate the skin.</div>
+<div class="warning with-roo" >Wear gloves before peeling and chopping the butternut squash. The oil coming off of the squash can irritate the skin.</div>
 
 ### Directions
 
@@ -63,4 +63,4 @@ description: "Although I'm not a huge fan of soups, this exotic, creamy flavour 
 
 1. Once the soup is ready to serve, mix the cream and sour cream in a small bowl.
 
-> Serve with slices of Italian bread.
+<blockquote class="with-roo">Serve with slices of Italian bread.</blockquote>

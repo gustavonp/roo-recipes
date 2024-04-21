@@ -59,6 +59,7 @@ img_home = ""
 img_404 = "img/404-bg2.jpg"
 logo_img = "img/Logo.svg"
 cheff_roo = "img/chefroo.png"
+meta_img = "img/recipes/stickers/cooking.png"
 wave = "img/wave.svg"
 
 useFaviconGenerator = true

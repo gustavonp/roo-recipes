@@ -38,7 +38,7 @@ description: "This may sound pretentious, but these are called correct scrambled
 
 2. Add the eggs to the skillet
 
-> Never season raw eggs! Salt breaks the egg proteins, making them runny and losing too much water.
+<div class="warning with-roo">Never season raw eggs! Salt breaks the egg proteins, making them runny and losing too much water.</div>
 
 3. Constantly stir and turn the eggs until the eggs start to cook, scraping down the bottom and sides.
 

@@ -40,4 +40,4 @@ description: "One of her favourite snacks. I'm sure you'll love it as well."
 
 5. Let it rest overnight.
 
-> Aside from parsley, you can season it with anything you want. Try garlic, pepper or even olives.
+<blockquote class="with-roo">Aside from parsley, you can season it with anything you want. Try garlic, pepper or even olives.</blockquote>

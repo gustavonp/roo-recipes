@@ -89,7 +89,7 @@ description: "The Esfiha is a savory pie inspired by the Middle Eastern Sfiha. I
 
 3. Season with parsley and basil.
 
-> Make sure the ground beef is dry before assembling the esfiha.
+<blockquote class="with-roo">Make sure the ground beef is dry before assembling the esfiha.</blockquote>
 
 **For the cheese topping**
 

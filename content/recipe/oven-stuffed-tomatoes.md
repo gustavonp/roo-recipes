@@ -49,6 +49,6 @@ description: "This is one of those silly, simple recipes to make when you want t
 
 4. Put your tomatoes on a baking tray and carefully stuff them with the ground beef, addind the parmesan cheese on top.
 
-> Try not to fill all the way up to the top.
+<blockquote class="with-roo">Try not to fill all the way up to the top.</blockquote>
 
 5. Cook for about 30 to 40 minutes.

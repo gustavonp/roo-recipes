@@ -48,4 +48,4 @@ description: "Bok choy is a variety of Chinese white cabbage. Full of good nutri
 
 6. Pour the mixture over the bok choy.
 
-> It is easy to make it too spicy with red pepper flakes. Try adding it a little less if you're not a fan of spicy food.
+<blockquote class="with-roo">It is easy to make it too spicy with red pepper flakes. Try adding it a little less if you're not a fan of spicy food.</blockquote>

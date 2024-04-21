@@ -45,5 +45,4 @@ description: "Perfect for salad dressing, burger sauce, or even to add that nice
 
 6. Pour the chilli into a bottle and let it cool.
 
-
-> Do not cook for more than 15 minutes! It gets too sweet.
+<blockquote class="with-roo">Do not cook for more than 15 minutes! It gets too sweet.</blockquote>

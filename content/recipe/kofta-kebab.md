@@ -43,4 +43,4 @@ description: "Mediterranean cuisine is one of my favourites kind of food. Always
 4. Wrap each portion on the tip of the skewers in the shape of a sausage.
 5. Lightly oil the koftas and a baking tray before setting it into the oven for 30 minutes.
 
-> Be sure to break up the ground beef thoroughly with your fingers. If the kofta is too moist, add 1 tablespoon of breadcrumb.
+<blockquote class="with-roo">Be sure to break up the ground beef thoroughly with your fingers. If the kofta is too moist, add 1 tablespoon of breadcrumb.</blockquote>

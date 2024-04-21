@@ -56,4 +56,4 @@ description: "This recipe requires a slow cooker pan. If you have one, I highly 
 
 5. Strain the onions and garlic from the slow cooker and add them back with the shredded pork and BBQ sauce (optional).
 
-> You can add a little bit of the liquid back to the slow cooker to make the meat a little moist.
+<blockquote class="with-roo">You can add a little bit of the liquid back to the slow cooker to make the meat a little moist.</blockquote>

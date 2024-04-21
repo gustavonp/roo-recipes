@@ -40,4 +40,4 @@ description: "Of all the variations I've tried. This is the best and easiest pan
 
 3. Bathe that shortstack with maple goodness.
 
-> You can store the pancake batter in the fridge for two to four days. Save a bottle of empty ketchup to help you pour pancake batter.
+<blockquote class="with-roo">You can store the pancake batter in the fridge for two to four days. Save a bottle of empty ketchup to help you pour pancake batter.</blockquote>

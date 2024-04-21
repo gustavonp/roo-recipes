@@ -52,4 +52,4 @@ description: "Paprika Schnitzel (or Paprikaschnitzel) is a simple yet wonderful 
 
 7. Pour the mixture over the steaks and let them cook for no longer than 3 minutes.
 
-> Best served with rice and potatoes. Try adding some of the sauce all over the potatoes as well.
+<blockquote class="with-roo">Best served with rice and potatoes. Try adding some of the sauce all over the potatoes as well.</blockquote>

@@ -42,4 +42,4 @@ description: "Making your hummus gives you a hint of sophistication at your tabl
 
 3. After a few minutes of processing, the chickpeas become a thick, whipped paste. Add more water if you wish to make it smoother.
 
-> The time may vary if you're using canned chickpeas instead.
+<blockquote class="with-roo">The time may vary if you're using canned chickpeas instead.</blockquote>

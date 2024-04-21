@@ -49,8 +49,8 @@ description: "Hasselback potato is a Swedish version of a baked potato. It can b
 
 8. After 20 minutes, pull the potatoes out and brush your seasoned butter on top of the potatoes, bringing them back into the oven for extra 15 minutes.
 
-> Repeat this process ever 15 minutes 2 or 3 more times.
+<div class="warning">Repeat this process ever 15 minutes 2 or 3 more times.</div>
 
 9. Lastly, with the help of a knife, gently open up some of the potato slits to ensure the center is nice and cooked.
 
-> You can add cheese or other toppings before serving. Just add extra 5 minutes to this last step.
+<blockquote class="with-roo">You can add cheese or other toppings before serving. Just add extra 5 minutes to this last step.</blockquote>

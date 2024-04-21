@@ -38,4 +38,4 @@ description: "This is a sweet, charming recipe perfect to win someone's heart."
 
 5. Bring the mixture into a large bowl or multiple portion bows and put in the fridge for 4 to 8 hours.
 
-> Suggestion: Serve drizzled with semi-dark chocolate syrup.
+<blockquote class="with-roo">Suggestion: Serve drizzled with semi-dark chocolate syrup.</blockquote>

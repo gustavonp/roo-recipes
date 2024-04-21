@@ -31,7 +31,7 @@ description: "Salt, pepper, and lemon. Salmon doesn't need anything else to make
 
 1. [Score the skin](## "Cut 2 or 3 slices on the skin lengthwise") of the salmon.
 
-> Scoring the skin helps prevent the salmon from curving while being cooked.
+<blockquote class="with-roo">Scoring the skin helps prevent the salmon from curving while being cooked.</blockquote>
 
 2. Season both sides and inside the crevasses with salt and freshly ground black pepper.
 
@@ -41,4 +41,4 @@ description: "Salt, pepper, and lemon. Salmon doesn't need anything else to make
 
 5. Squeeze a little bit of lemon juice on the scored skin or before serving the salmon.
 
-> Keep the skin side down all the time to give the skin a nice, crispy texture. Plus, you can see the fish slowly getting ready.
+<blockquote class="with-roo">Keep the skin side down all the time to give the skin a nice, crispy texture. Plus, you can see the fish slowly getting ready.</blockquote>

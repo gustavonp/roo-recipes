@@ -31,4 +31,4 @@ description: "Although peanut butter is not an uncommon thing in the supermarket
 
 1. Put all ingredients into a food processor until it reaches the desired consistency. It takes some time until the peanuts release their natural oil, so be patient.
 
-> Peanut butter does not need any extra oil.
+<div class="warning with-roo">Peanut butter does not need any extra oil.</div>

@@ -136,6 +136,23 @@ body {
       padding-left: 16px;
       color: var(--espresso);
     }
+
+    .warning.with-roo, blockquote.with-roo {
+      display: flex;
+      align-items: center;
+    }
+
+    .with-roo::before {
+      content: "";
+      display: inline-block;
+      background-image: url('/img/recipes/stickers/quoting.png');
+      background-size: contain;
+      background-position-y: center;
+      background-repeat: no-repeat;
+      width: 250px;
+      height: 210px;
+      margin-right: 10px;
+    }
   }
 
   .container li {
@@ -145,8 +162,17 @@ body {
   .my-flexbox {
     display: flex;
 
+    .search-img {
+      margin: 0px auto;
+      max-width: 250px;
+    }
+
     &.center {
       align-items: center;
+    }
+
+    &.end {
+      align-items: end;
     }
 
     &.row-collapse {

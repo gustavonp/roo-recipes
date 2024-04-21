@@ -42,7 +42,7 @@ description: "A simple, hearty meal perfect for winter seasons. A delicious comf
 - cilantro
 - tortilla chips
 
-> None of those toppings are necessary, but it's highly recommended.
+<blockquote class="with-roo">None of those toppings are necessary, but it's highly recommended.</blockquote>
 
 ### _Mise en place_
 

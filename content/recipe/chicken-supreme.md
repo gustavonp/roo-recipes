@@ -52,4 +52,4 @@ description: "If you like a good chicken breast but hate when it gets too dry, t
 
 8. Remove from oven and transfer the chicken to a plate to rest.
 
-> The secret is quickly searing the chicken breast before transferring it to the oven. So it gets a nice brown colour on the outside and is still moist on the inside. I also highly recommend using the fat and juice left on the skillet to sauté some onions or vegetables, don't simply wash it off. All the flavour of the meat is there!
+<blockquote class="with-roo">The secret is quickly searing the chicken breast before transferring it to the oven. So it gets a nice brown colour on the outside and is still moist on the inside. I also highly recommend using the fat and juice left on the skillet to sauté some onions or vegetables, don't simply wash it off. All the flavour of the meat is there!</blockquote>
