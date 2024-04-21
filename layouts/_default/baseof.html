@@ -18,12 +18,19 @@
   {{ end -}}
   <meta name="description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
   <meta name="keywords" content="{{ (delimit .Keywords " ,") | default .Site.Params.keywords }}">
+  {{ with .Site.Params.img_home }}
+    <meta property="og:image" content="{{ absURL $.Site.Params.cheff_roo }}" />
+    <meta name="twitter:image" content="{{ absURL $.Site.Params.cheff_roo }}" />
+  {{ end }}
+
+  <!-- <meta property="og:image" content="http://blog.gimo.me/posts/auto-generating-cover-for-post/cover.png" />
+  <meta name="twitter:image" content="http://blog.gimo.me/posts/auto-generating-cover-for-post/cover.png" /> -->
 
   {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/opengraph.html" . }}
   <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}"  crossorigin="anonymous">
   <!-- font-awesome -->
-  <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css" rel="stylesheet" type="text/css">
 
   {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" (slice
   "sass")) }}

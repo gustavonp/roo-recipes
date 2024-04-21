@@ -6,6 +6,7 @@ draft: false
 tags: ["Entrées", "Meats"]
 cover: /img/recipes/french-onion-chicken.jpg
 description: "A rich french onion sauce along with hot melted cheese makes this plate a wonderful dinner."
+image: /img/recipes/french-onion-chicken.jpg
 ---
 
 <div class="my-flexbox row-collapse center basic-gap" >

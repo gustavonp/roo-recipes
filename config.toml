@@ -53,8 +53,8 @@ weight = 50
 
 [params]
 author = "Chef Roo"
-description = ""
-keywords = "blog,developer,personal"
+description = "My personal recipe book I would love to share with you!"
+keywords = "personal,recipe,cook"
 img_home = ""
 img_404 = "img/404-bg2.jpg"
 logo_img = "img/Logo.svg"
@@ -74,16 +74,13 @@ avatar = "img/about-me.jpg"
 bio = "Part-time artists who likes to cook as a hobby. This is my personal recipe book"
 
 [params.social]
-twitter = "johndoe"
 rss = false
-[params.social.mastodon]
+[params.social.bluesky]
 weight = 56
-icon = "fab fa-mastodon"
-format = "https://mastodon.social/%v"
-id = "johndoe"
+icon = "fab fa-bluesky"
+format = "https://bsky.app/profile/%v"
+id = "aniki.bsky.social"
 url = ""
-
-
 
 # See https://giscus.app/
 [params.giscus]
