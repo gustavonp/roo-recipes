@@ -35,9 +35,9 @@ description: "Garlic confit is a 2 in 1 recipe. You get a delightful spread and 
 
 2. Fill up a small baking dish with your peeled garlic.
 
-3. Fill up the baking dish with olive oil until it covers the garlic cloves.
+3. Fill the baking dish with olive oil until it covers the garlic cloves.
 
-4. Cover it with a sheet of [tin foil](## "shine side up") and brig it into the over for 45 minutes.
+4. Cover it with a sheet of [tin foil](## "shine side up") and bring it into the oven for 45 minutes.
 
 > Let it cook until the garlic is fork tender.
 
