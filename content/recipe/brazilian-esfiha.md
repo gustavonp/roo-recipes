@@ -31,7 +31,7 @@ description: "The Esfiha is a savory pie inspired by the Middle Eastern Sfiha. I
 - ½ teaspoon milk
 - ½ teaspoon oil
 - 1 egg
-- 1 egg yolk
+- Cornmeal
 
 **Meat topping**
 
@@ -101,10 +101,10 @@ description: "The Esfiha is a savory pie inspired by the Middle Eastern Sfiha. I
 
 2. Spread the dough with a rolling pin.
 
+<blockquote class="with-roo">Use Cornmeal to prevent the dough from sticking to the surface</blockquote>
+
 2. Cut the dough into small circles using the rim of a glass.
 
 3. Add the topping to the circle dough like a small pizza, carefully curling the crust inwards.
 
-4. Brush the egg yolk on the crust before setting the esfihas on a tray.
-
-5. Bring the esfihas into the oven for 30 minutes.
+4. Bring the esfihas into the oven for 30 minutes.

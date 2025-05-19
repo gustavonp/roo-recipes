@@ -194,8 +194,20 @@ body {
     &.basic-gap {
       gap: 6px
     }
+
+    &.something {
+      position: absolute;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      opacity: 0.2;
+      z-index: -1;
+    }
   }
 
+  #search-input {
+    background-color: transparent;
+  }
 }
 
 center.no-page {
@@ -274,6 +286,8 @@ h6 {
 }
 
 .post-preview {
+  background-color: #ffffffa1;
+
   .post-meta {
     font-size: 13px;
   }
