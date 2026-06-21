@@ -35,9 +35,18 @@ description: "With crackers or on a toast, a good paté can be the best snack at
 - 1 tablespoon minced onion
 - 4 tablespoon cream cheese
 - 1 tablespoon olive oil
+- 1 teaspoon salt
+- 1 teaspoon garlic powder
+- 1 teaspoon dried parsley
 
 ### Directions
 
 1. Bring all ingredients of your selected paté to a food processor.
 
-2. Process the paté for 2 minutes or until it reaches the desired consistency.
+2. Process the paté for 5 minutes or until it reaches the desired consistency.
+
+<blockquote class="with-roo">
+  If it still tastes like mayo, keep processing for a few extra minutes.
+
+  Keep in mind it tastes better after you leave it in the fridge overnight.
+</blockquote>
