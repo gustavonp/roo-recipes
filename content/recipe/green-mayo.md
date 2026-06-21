@@ -15,15 +15,12 @@ description: "Green mayo is a Brazilian delicacy, perfect to go with burger or f
   <div>
     <blockquote>
       Back when I lived in Brazil, this mayo was a must-have on every respectable burder parlor. It's addicting.
-
       Too bad it was never enough for me. Well... Until now.
     </blockquote>
   </div>
 </div>
 
 ### Ingredients
-
-**For the tuna paté:**
 
 - 2 eggs
 - 1 lime 
